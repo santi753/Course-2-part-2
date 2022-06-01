@@ -1,1 +1,1 @@
-# Task2_course2
+# Course2
